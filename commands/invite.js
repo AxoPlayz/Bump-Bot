@@ -18,7 +18,7 @@ module.exports = {
         const { colors, emotes } = msg.client;
 
         let link = "https://discord.com/api/oauth2/authorize?client_id=" + msg.client.user.id + "&permissions=8&scope=bot",
-            invite = "https://discord.gg/KJjZnxZ"
+            invite = "https://discord.gg/HYhH4CqWye"
 
         let emb = rawEmb()
             .setTitle("Invite Links")
